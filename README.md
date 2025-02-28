@@ -2,7 +2,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/DeeCeeXxx/Queen_Anita-V4/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/SEPTORCH29/Queen-Anita-V4/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
 
